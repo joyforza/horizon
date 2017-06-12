@@ -1,0 +1,29 @@
+two id = 1 2
+two root: 1 2
+same mean
+YES
+two id = 4 5
+two root: 4 5
+same mean
+YES
+two id = 3 4
+two root: 3 5
+hate
+YES
+two id = 1 5
+two root: 2 5
+hate
+YES
+two id = 1 3
+two root: 2 3
+hate
+YES
+two id = 1 3
+two root: 2 3
+same mean
+NO
+3
+3
+2
+1
+2
